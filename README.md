@@ -1,4 +1,1 @@
-leetcode
-========
-
-LeetCode Ruby Solutions
+LeetCode Solutions
